@@ -18,6 +18,8 @@ Node Js
 ## Usage Information
 to take notes. 
 
+## Deployment
+https://agile-journey-87487-f728fc2837d4.herokuapp.com/notes
 
 ## Screenshot
 ![my screenshot](./public/assets/Screenshot%20Note_taker.png).
