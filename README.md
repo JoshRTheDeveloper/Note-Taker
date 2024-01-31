@@ -25,7 +25,7 @@ https://agile-journey-87487-f728fc2837d4.herokuapp.com/notes
 ![my screenshot](./public/assets/Screenshot%20Note_taker.png).
 
 ## Contributors
-N/A
+
 
 ## Test
 N/A
