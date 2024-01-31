@@ -20,6 +20,7 @@ to take notes.
 
 
 ## Screenshot
+![my screenshot](./public/assets/Screenshot%20Note_taker.png).
 
 ## Contributors
 N/A
